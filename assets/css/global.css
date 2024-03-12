@@ -28,7 +28,7 @@ body {
 .main::before,
 .main::after{
     content: '';
-    background-image: url(/assets/img/svg/backgroundLeft.svg);
+    background-image: url(assets/img/svg/backgroundLeft.svg);
     background-repeat: no-repeat;
     background-size: contain;
     width: 140vw;
