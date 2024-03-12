@@ -45,6 +45,10 @@
         "name": "criando um e-commerce",
         "url": "https://github.com/RastelliBru/ecomm",
         "github": true
+      },{
+        "name":"Criando um formulário de votação",
+        "url": "https://github.com/RastelliBru/Polls",
+        "github": true
       }
     ],
     "professionalExperience": [
