@@ -1,0 +1,58 @@
+{
+    "name": "Bruna Rastelli",
+    "photo": "https://avatars.githubusercontent.com/u/103864444?v=4",
+    "job": "Analista de TI",
+    "location": "São Paulo - SP",
+    "email": "bruna.rastelli@gmail.com",
+    "skills": {
+      "hardSkills": [
+        {
+          "name": "Nodejs",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        },
+        {
+          "name": "Mongodb",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+        },
+        {
+          "name": "Postgresql",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        }
+      ],
+      "softSkills": [
+        "Orientação para resultados",
+        "Comunicação assertiva",
+        "Trabalho em equipe",
+        "Flexibilidade",
+        "Organização"
+      ]
+    },
+    "languages": [
+      "Português BR",
+      "Inglês (intermediário)"
+    ],
+    "portfolio": [
+      {
+        "name": "Criação de uma Pokedex",
+        "url": "https://github.com/RastelliBru/pokedex",
+        "github": true
+      },
+      {
+        "name": "criando um e-commerce",
+        "url": "https://github.com/RastelliBru/ecomm",
+        "github": true
+      }
+    ],
+    "professionalExperience": [
+      {
+        "name": "Analista de TI na Pagonxt",
+        "period": "2022 - até o momento",
+        "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      },
+      {
+        "name": "Quality Assurance na B2E",
+        "period": "2020 - 2022",
+        "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+    }
+  ]
+}
