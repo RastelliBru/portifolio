@@ -48,7 +48,7 @@
     height: 1rem;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url('/assets/img/svg/icon.svg');
+    background-image: url('../img/svg/icon.svg');
     transition: 0.25s;
 }
 
